@@ -14,7 +14,7 @@ Esse trabalho possui como objetivo análisar os dados referentes a pesquisa no I
   - E-mail: davirodrigues8@gmail.com
 
 ## Dados
-Os dados utilizados forma retirados do site de <a href="http://dados.ufrn.br/">dados abertos da UFRN</a>. Foram utilizados os seguintes conjuntos de dados:
+Os dados utilizados formam retirados do site de <a href="http://dados.ufrn.br/">dados abertos da UFRN</a>. Foram utilizados os seguintes conjuntos de dados:
 - <a href="http://dados.ufrn.br/dataset/bolsistas-de-iniciacao-cientifica">Bolsistas de Iniciação Científica</a>
 - <a href="http://dados.ufrn.br/dataset/discentes">Discentes</a>
 - <a href="http://dados.ufrn.br/dataset/docentes">Docentes</a>

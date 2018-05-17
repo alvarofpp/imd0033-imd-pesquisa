@@ -25,7 +25,7 @@ Os dados utilizados forma retirados do site de <a href="http://dados.ufrn.br/">d
 ## Sumário
 - [Preparando o ambiente](#ambiente)
   - [Tratamento dos dados](#tratamento)
-- [Análise](#analise)
+- [Análises](#analise)
   - [Discentes](#discentes)
   - [Docentes](#docentes)
 - [Conclusão](#conclusao)
@@ -40,7 +40,7 @@ Primeiramente, instale as dependências a seguir, utilizando seus respectivos co
 ### <a id="tratamento">Tratamento dos dados</a>
 Nessa seção, iremos tratar os dados de arquivos diferentes, de forma que iremos conseguir juntar dados de multiplos arquivos em um só, a fim de facilitar as análises que podemos realizar posteriormente.
 
-## <a id="analise">Analise</a>
+## <a id="analise">Análises</a>
 Nessa seção, iremos realizar algumas análises dos dados de discentes e docentes, a fim de entendermos melhor o papel de ambos no contexto de desenvolvimento de pesquisa científica.
 
 ### <a id="discentes">Discentes</a>

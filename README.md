@@ -1,6 +1,7 @@
 # Análise de dados referentes a pesquisa no IMD e DIMAp
-
 O presente repositório refere-se ao trabalho da segunda unidade da disciplina **Probabilidade** (IMD0033), ministrada pelo professor [Ivanovitch Medeiros Dantas da Silva](https://github.com/ivanovitchm).
+
+Para assistir a apresentação do trabalho no YouTube, [clique aqui](https://youtu.be/XYct-9SaNHw) ou digite no seu navegador: https://youtu.be/XYct-9SaNHw.
 
 ## Objetivo
 Esse trabalho possui como objetivo análisar os dados referentes a pesquisa no Instituto Metrópole Digital (IMD), contexto de discentes e docentes, e no Departamento de Informática e Matemática Aplicada (DIMAp), contexto de docentes. Visto que tem-se conhecimento de que a pesquisa é realizada em ambos os departamentos, mas é comum desconhecer o perfil dos discentes e docentes envolvidos no processo de realizar pesquisa. Sendo assim, procurou-se mostrar algumas informações que aumentem o conhecimento de quem ler em relação as pesquisas realizadas no IMD e DIMAp.

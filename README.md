@@ -3,9 +3,6 @@ O presente repositório refere-se ao trabalho da segunda unidade da disciplina *
 
 Para assistir a apresentação do trabalho no YouTube, [clique aqui](https://youtu.be/XYct-9SaNHw) ou digite no seu navegador: https://youtu.be/XYct-9SaNHw.
 
-## Objetivo
-Esse trabalho possui como objetivo análisar os dados referentes a pesquisa no Instituto Metrópole Digital (IMD), contexto de discentes e docentes, e no Departamento de Informática e Matemática Aplicada (DIMAp), contexto de docentes. Visto que tem-se conhecimento de que a pesquisa é realizada em ambos os departamentos, mas é comum desconhecer o perfil dos discentes e docentes envolvidos no processo de realizar pesquisa. Sendo assim, procurou-se mostrar algumas informações que aumentem o conhecimento de quem ler em relação as pesquisas realizadas no IMD e DIMAp.
-
 **Componentes**:
 - <a href="https://github.com/alvarofpp">Álvaro Ferreira Pires de Paiva</a>
   - Matrícula: 2016039162
@@ -13,6 +10,9 @@ Esse trabalho possui como objetivo análisar os dados referentes a pesquisa no I
 - <a href="https://github.com/davir8">Davi Rodrigues de Medeiros</a>
   - Matrícula: 20160143888
   - E-mail: davirodrigues8@gmail.com
+
+## Objetivo
+Esse trabalho possui como objetivo análisar os dados referentes a pesquisa no Instituto Metrópole Digital (IMD), contexto de discentes e docentes, e no Departamento de Informática e Matemática Aplicada (DIMAp), contexto de docentes. Visto que tem-se conhecimento de que a pesquisa é realizada em ambos os departamentos, mas é comum desconhecer o perfil dos discentes e docentes envolvidos no processo de realizar pesquisa. Sendo assim, procurou-se mostrar algumas informações que aumentem o conhecimento de quem ler em relação as pesquisas realizadas no IMD e DIMAp.
 
 ## Dados
 Os dados utilizados formam retirados do site de <a href="http://dados.ufrn.br/">dados abertos da UFRN</a>. Foram utilizados os seguintes conjuntos de dados:

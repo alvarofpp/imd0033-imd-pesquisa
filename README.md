@@ -1,9 +1,9 @@
 # Análise de dados referentes a pesquisa no IMD e DIMAp
-O presente repositório refere-se ao trabalho da segunda unidade da disciplina **Probabilidade** (IMD0033), ministrada pelo professor [Ivanovitch Medeiros Dantas da Silva](https://github.com/ivanovitchm).
+O presente repositório refere-se ao trabalho da segunda unidade da disciplina **Probabilidade** (IMD0033, T02, 2018.1), ministrada pelo professor [Ivanovitch Medeiros Dantas da Silva](https://github.com/ivanovitchm).
 
 Para assistir a apresentação do trabalho no YouTube, [clique aqui](https://youtu.be/XYct-9SaNHw) ou digite no seu navegador: https://youtu.be/XYct-9SaNHw.
 
-**Componentes**:
+**Discentes**:
 - <a href="https://github.com/alvarofpp">Álvaro Ferreira Pires de Paiva</a>
   - Matrícula: 2016039162
   - E-mail: alvarofepipa@gmail.com
